@@ -21,3 +21,9 @@ def valid_move?(board, index)
       false
     end
 end
+
+#move methid
+def move(board, index, character = "X")
+  board[index] = character
+  return board
+end
