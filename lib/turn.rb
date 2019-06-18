@@ -2,7 +2,7 @@
 def turn(board)
   while move != " "
     puts "Please enter anoth position "
-  end 
+  end
 end
 
 #board method
