@@ -1,6 +1,7 @@
 #turn method
 def turn(board)
-  puts "Please enter 1-9: "
+  while move != " "
+  puts "Please enter anoth position "
 end
 
 #board method
